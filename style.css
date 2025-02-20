@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(to right, #e96443, #904e95);
+    backdrop-filter: blur(0px)
+}
+
+.vaqt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+    gap: 50px;
+    color: white;
+    width: 750px;
+    height: 280px;
+    background-color:#ffbf00;
+    margin-left: 400px;
+    border-radius: 5px;
+    z-index: 1;
+}
+
+.soat {
+    font-size: 70px;
+    background: #050505E5;
+    padding: 55px 63px 80px 62px;
+    border-radius: 15px;
+}
+
+.minut {
+    font-size: 70px;
+    background: #050505E5;
+    padding: 55px 63px 80px 62px;
+    border-radius: 15px;
+}
+
+.sikund {
+    font-size: 70px;
+    background: #050505E5;
+    padding: 55px 63px 80px 62px;
+    border-radius: 15px;
+}
